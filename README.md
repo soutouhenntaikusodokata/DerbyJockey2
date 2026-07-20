@@ -1,6 +1,5 @@
 # DerbyJockey2
 競馬プラグイン　horse plugin
-# DerbyJockey Modern
 
 Paper 1.21.8向けの競走馬・騎乗アクション・馬保存／補填プラグインです。
 
